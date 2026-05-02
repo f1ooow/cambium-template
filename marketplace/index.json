@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "zhuyu-universal",
+      "type": "spec",
+      "name": "Zhuyu Universal Fullstack",
+      "description": "Universal fullstack template with Chinese support, Hindsight memory integration, and project-agnostic guides. Supports React/Vue + any backend.",
+      "path": "specs/zhuyu-universal",
+      "tags": ["fullstack", "react", "universal", "chinese"]
+    }
+  ]
+}
